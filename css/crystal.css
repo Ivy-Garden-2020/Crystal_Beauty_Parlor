@@ -1,0 +1,221 @@
+.container {
+	background-color: #dec8de;
+}
+
+.fluidbg {
+	background-color: #663464;
+}
+
+.bgp {
+	 background-color : #663464;
+}
+/* .navbar {
+	position: fixed;
+}
+ */
+.mybg {
+	background-color : #663464;
+	color: white;
+}
+
+.purplefont {
+	color: #80007b;
+}
+
+.blogo {
+	width: 30%;
+}
+
+.curlyback {
+	margin-top: -100px;
+}
+.slogo {
+	width: 20%;
+}
+
+.short {
+	padding-left: 20px;
+}
+
+.mid {
+	padding-left: 20px;
+}
+
+.long {
+	padding-left: 5px;
+}
+
+.imai {
+	padding-left: 35px;
+}
+
+.miyo {
+	padding-left: 35px;
+}
+
+.sawa {
+	padding-left: 35px;
+}
+
+.yoko {
+	padding-left: 35px;
+}
+
+.pl-6 {
+	padding-left: 65px;
+}
+
+.pl-7 {
+	padding-left: 100px;
+}
+
+.pl-8 {
+	padding-left: 50px;
+}
+
+.pl-9 {
+	padding-left: 14px;
+}
+
+.tel {
+	font-size: 25px;
+}
+
+label {
+	display: block;
+}
+
+/* ************************small screen****************************** */
+
+@media screen and (max-width:480px){
+
+    
+}
+
+/* ***************************medium screen******************************* */
+
+@media screen and (min-width:481px){
+
+.mirror {
+	padding-top: 70px;
+}	
+
+.awaji {
+	font-size: 18px;
+}
+
+.intro1 {
+	font-size: 13px;
+}
+
+.intro2 {
+	font-size: 13px;
+}
+
+.chat {
+	padding-top: 70px;
+}
+
+.tools {
+	padding-top: 100px;
+}
+
+.rain {
+	margin-top: 150px;
+}
+
+.mask {
+	margin-top: 120px;
+}
+
+.hands {
+	margin-top: 120px;
+}
+
+.curlyback {
+	padding-top: 100px;
+}
+
+.flying {
+	margin-top: 60px;
+}
+
+.toppics {
+	margin-right: 5px;
+}
+
+.bottompics {
+	margin-right: 5px;
+}
+	
+}
+
+/* ************************large screen****************************** */
+
+@media screen and (min-width:781px){
+	
+.slideshow {
+	margin-left: 180px;
+}
+
+.mirror {
+	padding-top: 0px;
+	}
+}
+
+.awaji {
+	font-size: 20px;
+}
+
+.intro1 {
+	font-size: 17px;
+}
+
+.intro2 {
+	font-size: 17px;
+}
+
+.chat {
+	padding-top: 0px;
+}
+
+.tools {
+	padding-top: 0px;
+}
+
+.rain {
+	margin-top: 0px;
+}
+
+.mask {
+	margin-top: 0px;
+}	
+
+.hands {
+	margin-top: 0px;
+}
+
+.curlyback {
+	padding-top: 100px;	
+}
+
+.flying {
+	margin-top: 60px;
+}
+
+.short {
+	padding-left: 0px;
+}
+
+.mid {
+	padding-left: 0px;
+}
+
+.long {
+	padding-left: 0px;
+}
+
+}
+
+
+ 
